@@ -8,6 +8,8 @@
 
 [Express](http://expressjs.com)
 
+http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html
+
 # edge
 
 * [![](http://www.google.com/s2/favicons?domain=github.com) edge.js](http://tjanczuk.github.io/edge/)
