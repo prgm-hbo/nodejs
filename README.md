@@ -15,3 +15,7 @@ http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html
 * [![](http://www.google.com/s2/favicons?domain=github.com) edge.js](http://tjanczuk.github.io/edge/)
 
 
+# Visual Studio
+
+New Project / Templates / JavaScript / Node.js
+
