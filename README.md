@@ -17,5 +17,10 @@ http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html
 
 # Visual Studio
 
+NTVS
+* [![](http://www.google.com/s2/favicons?domain=visualstudio.com) Node.js Tools for Visual Studio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
+* [![](http://www.google.com/s2/favicons?domain=codeplex.com) Node.js Tools for Visual Studio](https://nodejstools.codeplex.com)
+* [![](http://www.google.com/s2/favicons?domain=github.com) Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+
 New Project / Templates / JavaScript / Node.js
 
