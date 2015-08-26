@@ -33,7 +33,8 @@ Mettre à jour npm
 
 ## package.json
 
-* [npm init](https://docs.npmjs.com/cli/init) pour générer un fichier `package.json` dans le répertoire courant
+[npm init](https://docs.npmjs.com/cli/init)
+  génère un fichier `package.json` dans le répertoire courant.
 
       npm init [-f]
 
