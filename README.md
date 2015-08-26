@@ -22,7 +22,7 @@ http://tomasz.janczuk.org/
 
 C#
 
-* [![](http://www.google.com/s2/favicons?domain=github.com) edge-cs](https://github.com/tjanczuk/edge-cs)
+* [![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
 
 
 # Visual Studio
@@ -30,7 +30,9 @@ C#
 Node.js Tools for Visual Studio (NTVS)
 
 * [![](http://www.google.com/s2/favicons?domain=visualstudio.com) visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
-* [![](http://www.google.com/s2/favicons?domain=github.com) github](https://github.com/Microsoft/nodejstools)
+* [![][ico-github.com] github](https://github.com/Microsoft/nodejstools)
+
+Templates
 
     New Project / Templates / JavaScript / Node.js
 
