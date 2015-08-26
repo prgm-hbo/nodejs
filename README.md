@@ -30,5 +30,5 @@ Node.js Tools for Visual Studio (NTVS)
 * [![](http://www.google.com/s2/favicons?domain=github.com) github](https://github.com/Microsoft/nodejstools)
 
 ```
-New Project / Templates / JavaScript / Node.js
+   New Project / Templates / JavaScript / Node.js
 ```
