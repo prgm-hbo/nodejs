@@ -29,6 +29,7 @@ Mettre à jour npm : `npm install npm -g`
 ## package.json
 
 * [init](https://docs.npmjs.com/cli/init)
+
   `npm init [-f]` génère un fichier `package.json` dans le répertoire courant.
 
   Résultat
