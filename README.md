@@ -9,9 +9,7 @@ PATH = `C:\Program Files (x86)\nodejs\` (node.exe, npm.cmd)
 
 PATH = `C:\Users\<user>\AppData\Roaming\npm`
 
-Version installée
-
-    node -v
+Version installée : `node -v`
 
 
 # npm
@@ -23,20 +21,15 @@ Package manager pour javascript.
 
 node vient avec npm
 
-Version installée
+Version installée : `npm -v`
 
-    npm -v
+Mettre à jour npm : `npm install npm -g`
 
-Mettre à jour npm
-
-    npm install npm -g
 
 ## package.json
 
-[npm init](https://docs.npmjs.com/cli/init)
-  génère un fichier `package.json` dans le répertoire courant.
-
-      npm init [-f]
+* [init](https://docs.npmjs.com/cli/init)
+  `npm init [-f]` génère un fichier `package.json` dans le répertoire courant.
 
   Résultat
 
