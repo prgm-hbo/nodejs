@@ -7,7 +7,7 @@
 
 PATH = `C:\Program Files (x86)\nodejs\` (node.exe, npm.cmd)
 
-PATH = `C:\Users\<user>\AppData\Roaming\npm`
+PATH = `...\AppData\Roaming\npm`
 
 Version installée : `node -v`
 
@@ -23,19 +23,24 @@ node vient avec npm
 
 Version installée : `npm -v`
 
-Mettre à jour npm : `npm install npm -g`
+Mettre à jour npm : `npm install npm -g` (`-g` car pour utilisation en ligne de commande)
 
+* [install](https://docs.npmjs.com/cli/install)
+
+      npm install [-g] <pkgname>    // global, dans ...\AppData\Roaming\npm\node_modules\
+      npm install <pkgname> --save  // local, --save pour maj du fichier package.json
+
+  L'utilisation d'un package global dans un projet nécessite de linker localement au projet le chemin global : `npm link <pkgname`.
+  Sinon, installer le package globalement (pour ligne de commande) et localement (pour le projet).
 
 ## package.json
 
 * [init](https://docs.npmjs.com/cli/init)
 
-  `npm init [-f]` génère un fichier `package.json` dans le répertoire courant.
-
-  Résultat
+  `npm init [-f]` génère un fichier `package.json` dans le répertoire courant 'MonApp'.
 
       {
-        "name": "MonApplication",
+        "name": "MonApp",
         "version": "1.0.0",
         "description": "",
         "main": "index.js",
@@ -47,36 +52,37 @@ Mettre à jour npm : `npm install npm -g`
         "license": "ISC"
       }
 
+To read : https://gist.github.com/branneman/8048520
+
 
 # express
 
 [Express](http://expressjs.com)
-
-* [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Script Node.js from .NET using Edge.js](http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html)
 
 ## TODO
 
 * [![](http://www.google.com/s2/favicons?domain=loopback.io) LoopBack](http://loopback.io)
 
 
-## edge
+# edge
 
-http://tomasz.janczuk.org/
-
-* [![][ico-github.io] edge.js](http://tjanczuk.github.io/edge/)
-* [![][ico-github.com] edge.js](https://github.com/tjanczuk/edge)
+* [![][ico-github.io] edge doc](http://tjanczuk.github.io/edge/)
+* [![][ico-github.com] github / edge](https://github.com/tjanczuk/edge)
+* [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
 
 C#
 
 * [![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
+* [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Script Node.js from .NET using Edge.js](http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html)
 
 
 # Visual Studio
 
-Node.js Tools for Visual Studio (NTVS)
+**Node.js Tools for Visual Studio (NTVS)**
 
 * [![](http://www.google.com/s2/favicons?domain=visualstudio.com) visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
 * [![][ico-github.com] github](https://github.com/Microsoft/nodejstools)
+* [![][ico-github.com] github / wiki](https://github.com/Microsoft/nodejstools/wiki/Install-Node.js-and-get-started-with-NTVS)
 
 Templates
 

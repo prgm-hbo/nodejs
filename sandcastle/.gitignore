@@ -1,0 +1,19 @@
+## Visual Studio
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+
+# VS2015 solution folders
+*.sln.ide/
+*.vs
+
+# NTVS
+.ntvs_analysis.dat
+
+# npm
+node_modules/
