@@ -1,12 +1,13 @@
 var express = require('express'),
   app = express();
 
-app.get('/1', function(req, res) {
-  res.send('app 1');
+app.get('/', function(req, res) {
+  res.send('Hello World!');
 })
 
-app.get('/2', function(req, res) {
-  res.send('app 2');
+app.get('/test', function(req, res) {
+  res.send('Hello test');
 })
 
-app.listen(8080);
+var server = app.listen(8080);
+console.log('Express app listening at http://%s:%s', server.address().address, server.address().port);
