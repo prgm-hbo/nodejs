@@ -19,17 +19,17 @@ Package manager pour javascript.
 * [![][ico-npmjs.com] npm](https://www.npmjs.com)
 * [![][ico-npmjs.com] npm doc](https://docs.npmjs.com)
 
-node vient avec npm
+node vient avec npm (`npm -v`).
 
-Version installée : `npm -v`
-
-Mettre à jour npm : `npm install npm -g` (`-g` car pour utilisation en ligne de commande)
+Pour mettre à jour la version de npm installée (globalement car utilisation en ligne de commande) : `npm install npm -g`.
 
 * [install](https://docs.npmjs.com/cli/install)
 
-      npm install [-g] <pkgname>    // global, dans ...\AppData\Roaming\npm\node_modules\
-      npm install <pkgname> --save  // local, --save pour maj du fichier package.json
-
+  ```bash
+  npm install [-g] <pkgname>    // global, dans ...\AppData\Roaming\npm\node_modules\
+  npm install <pkgname> --save  // local, --save pour maj du fichier package.json
+  ```
+  
   Pour utiliser un package global dans un projet sans le recopier en local, on peut le linker localement : `npm link <pkgname>`.
   Ou bien installer 2 fois le package ; globalement pour utilisation en ligne de commande et localement pour le projet.
   
@@ -40,19 +40,21 @@ Mettre à jour npm : `npm install npm -g` (`-g` car pour utilisation en ligne de
 * [init](https://docs.npmjs.com/cli/init)
 
   `npm init [-f]` génère un fichier `package.json` dans le répertoire courant 'MonApp'.
-
-      {
-        "name": "MonApp",
-        "version": "1.0.0",
-        "description": "",
-        "main": "index.js",
-        "scripts": {
-          "test": "echo \"Error: no test specified\" && exit 1"
-        },
-        "keywords": [],
-        "author": "",
-        "license": "ISC"
-      }
+  
+  ```json
+  {
+    "name": "MonApp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  ```
 
 To read : https://gist.github.com/branneman/8048520
 
