@@ -33,7 +33,7 @@ Mettre à jour npm : `npm install npm -g` (`-g` car pour utilisation en ligne de
   Pour utiliser un package global dans un projet sans le recopier en local, on peut le linker localement : `npm link <pkgname>`.
   Ou bien installer 2 fois le package ; globalement pour utilisation en ligne de commande et localement pour le projet.
   
-      Le lien symbolique provoque une erreur de synchro dans GitHub. 
+  > Le lien symbolique provoque une erreur de synchro dans GitHub. 
 
 ## package.json
 
