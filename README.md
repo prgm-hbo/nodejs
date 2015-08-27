@@ -30,7 +30,7 @@ Mettre à jour npm : `npm install npm -g` (`-g` car pour utilisation en ligne de
       npm install [-g] <pkgname>    // global, dans ...\AppData\Roaming\npm\node_modules\
       npm install <pkgname> --save  // local, --save pour maj du fichier package.json
 
-  L'utilisation d'un package global dans un projet nécessite de linker localement au projet le chemin global : `npm link <pkgname`.
+  L'utilisation d'un package global dans un projet nécessite de linker localement au projet le chemin global : `npm link <pkgname>`.
   Sinon, installer le package globalement (pour ligne de commande) et localement (pour le projet).
 
 ## package.json
