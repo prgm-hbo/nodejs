@@ -25,7 +25,7 @@ Pour mettre à jour la version de npm installée (globalement car utilisation en
 
 * [install](https://docs.npmjs.com/cli/install)
 
-  ```bash
+  ```sh
   npm install [-g] <pkgname>    // global, dans ...\AppData\Roaming\npm\node_modules\
   npm install <pkgname> --save  // local, --save pour maj du fichier package.json
   ```
