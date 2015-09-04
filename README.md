@@ -1,8 +1,8 @@
 # nodejs
 
 * [![](http://www.google.com/s2/favicons?domain=nodejs.org) Node.js](https://nodejs.org)
-* [![][ico-github.com] joyent / node](https://github.com/joyent/node) on GitHub (orig)
-* [![][ico-github.com] node.js / node](https://github.com/nodejs/node) on GitHub (io.js merged)
+* [![][ico-github] joyent / node](https://github.com/joyent/node) on GitHub (orig)
+* [![][ico-github] node.js / node](https://github.com/nodejs/node) on GitHub (io.js merged)
 * [![](http://www.google.com/s2/favicons?domain=nodeschool.io) nodeschool](http://nodeschool.io/fr-fr/)
 
 PATH = `C:\Program Files (x86)\nodejs\` (node.exe, npm.cmd)
@@ -16,8 +16,8 @@ Version installée : `node -v`
 
 Package manager pour javascript.
 
-* [![][ico-npmjs.com] npm](https://www.npmjs.com)
-* [![][ico-npmjs.com] npm doc](https://docs.npmjs.com)
+* [![][ico-npm] npm](https://www.npmjs.com)
+* [![][ico-npm] npm doc](https://docs.npmjs.com)
 
 node vient avec npm (`npm -v`).
 
@@ -80,7 +80,7 @@ Minimal and flexible Node.js web application framework
 # Jade
 
 [Jade](http://jade-lang.com/)
-( [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade) )
+( [![][ico-github]](https://github.com/jadejs/jade) [![][ico-npm]](https://www.npmjs.com/package/jade) )
 
 * [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
 * [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
@@ -89,10 +89,10 @@ Minimal and flexible Node.js web application framework
 # Stylus
 
 [Stylus](http://learnboost.github.io/stylus/)
-( [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus) )
+( [![][ico-github]](https://github.com/stylus/stylus) [![][ico-npm]](https://www.npmjs.com/package/stylus) )
 
 * [Nib](http://tj.github.io/nib/)
-  ( [![][ico-github.com]](https://github.com/tj/nib) [![][ico-npmjs.com]](https://www.npmjs.com/package/nib) )
+  ( [![][ico-github]](https://github.com/tj/nib) [![][ico-npm]](https://www.npmjs.com/package/nib) )
   Stylus mixins, utilities, components, and gradient image generation
 
 *  http://nibstyl.us/
@@ -103,13 +103,13 @@ Minimal and flexible Node.js web application framework
 # Edge
 
 [Edge](http://tjanczuk.github.io/edge/)
-( [![][ico-github.com]](https://github.com/tjanczuk/edge) [![][ico-npmjs.com]](https://www.npmjs.com/package/edge) )
+( [![][ico-github]](https://github.com/tjanczuk/edge) [![][ico-npm]](https://www.npmjs.com/package/edge) )
 
 [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
 
 **C#** compiler for edge.js
 
-[![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
+[![][ico-github] edge-cs](https://github.com/tjanczuk/edge-cs)
 
 * [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Script Node.js from .NET using Edge.js](http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html)
 
@@ -117,18 +117,17 @@ Minimal and flexible Node.js web application framework
 # Socket.io
 
 [Socket.io](http://socket.io/)
-( [![][ico-github.com]](https://github.com/socketio/socket.io) [![][ico-npmjs.com]](https://www.npmjs.com/package/socket.io) )
+( [![][ico-github]](https://github.com/socketio/socket.io) [![][ico-npm]](https://www.npmjs.com/package/socket.io) )
 
 * [engine.io](https://github.com/socketio/engine.io)
 
 
 # Visual Studio
 
-**Node.js Tools for Visual Studio (NTVS)**
+Node.js Tools for Visual Studio (NTVS)
 
-* [![](http://www.google.com/s2/favicons?domain=visualstudio.com) visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
-* [![][ico-github.com] github](https://github.com/Microsoft/nodejstools)
-* [![][ico-github.com] github / wiki](https://github.com/Microsoft/nodejstools/wiki/Install-Node.js-and-get-started-with-NTVS)
+* [![][ico-vs] visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
+( [![][ico-github]](https://github.com/Microsoft/nodejstools) [wiki](https://github.com/Microsoft/nodejstools/wiki/) )
 
 Templates
 
@@ -140,6 +139,6 @@ Templates
 - http://learn.mean.io/
 
 
-[ico-github.com]: http://www.google.com/s2/favicons?domain=github.com
-[ico-github.io]: http://www.google.com/s2/favicons?domain=github.io
-[ico-npmjs.com]: http://www.google.com/s2/favicons?domain=npmjs.com
+[ico-github]: http://www.google.com/s2/favicons?domain=github.com
+[ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
+[ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
