@@ -68,7 +68,6 @@ Minimal and flexible Node.js web application framework
 * [Using template engines with Express](http://expressjs.com/guide/using-template-engines.html)
 * [Moving to Express 4](http://expressjs.com/guide/migrating-4.html)
 * [Database integration](http://expressjs.com/guide/database-integration.html)
-
 * VS express templates
   * [Jade](http://jade-lang.com/)
   * [Stylus](http://learnboost.github.io/stylus/)
@@ -80,18 +79,20 @@ Minimal and flexible Node.js web application framework
 
 # Jade
 
-* [Jade](http://jade-lang.com/) ( [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade) )
+[Jade](http://jade-lang.com/)
+( [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade) )
+
 * [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
 * [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
 
 
 # Stylus
 
-* [Stylus](http://learnboost.github.io/stylus/)
-  ( [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus) )
+[Stylus](http://learnboost.github.io/stylus/)
+( [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus) )
 
 * [Nib](http://tj.github.io/nib/)
-  ( [![][ico-github.com]](https://github.com/tj/nib), [![][ico-npmjs.com]](https://www.npmjs.com/package/nib) )
+  ( [![][ico-github.com]](https://github.com/tj/nib) [![][ico-npmjs.com]](https://www.npmjs.com/package/nib) )
   Stylus mixins, utilities, components, and gradient image generation
 
 *  http://nibstyl.us/
@@ -101,14 +102,19 @@ Minimal and flexible Node.js web application framework
 
 # Edge
 
-* [![][ico-github.io] edge doc](http://tjanczuk.github.io/edge/)
-* [![][ico-github.com] github / edge](https://github.com/tjanczuk/edge)
-* [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
+[Edge](http://tjanczuk.github.io/edge/)
+( [![][ico-github.com]](https://github.com/tjanczuk/edge) [![][ico-npmjs.com]](https://www.npmjs.com/package/edge) )
 
-C#
+[![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
 
-* [![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
+**C#**
+
+[![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
+
 * [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Script Node.js from .NET using Edge.js](http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html)
+
+
+# Socket.io
 
 
 # Visual Studio
@@ -123,9 +129,11 @@ Templates
 
     New Project / Templates / JavaScript / Node.js
 
+
 # Frameworks
 
 - http://learn.mean.io/
+
 
 [ico-github.com]: http://www.google.com/s2/favicons?domain=github.com
 [ico-github.io]: http://www.google.com/s2/favicons?domain=github.io
