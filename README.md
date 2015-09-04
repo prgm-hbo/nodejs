@@ -70,20 +70,38 @@ Minimal and flexible Node.js web application framework
 * [Database integration](http://expressjs.com/guide/database-integration.html)
 
 * VS express templates
-  * [Jade](http://jade-lang.com/) [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade)
-    [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
-    [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
-  * [Stylus](http://learnboost.github.io/stylus/) [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus)
-  * [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
+  * [Jade](http://jade-lang.com/)
+  * [Stylus](http://learnboost.github.io/stylus/)
 
 ## TODO
 
 * [![](http://www.google.com/s2/favicons?domain=loopback.io) LoopBack](http://loopback.io)
-* [Nib](http://tj.github.io/nib/) [![][ico-github.com]](https://github.com/tj/nib) [![][ico-npmjs.com]](https://www.npmjs.com/package/nib) Stylus mixins, utilities, components, and gradient image generation
+
+
+# Jade
+
+* [Jade](http://jade-lang.com/)
+  ([![][ico-github.com]](https://github.com/jadejs/jade), [![][ico-npmjs.com]](https://www.npmjs.com/package/jade))
+
+* [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
+* [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
+
+
+# Stylus
+
+* [Stylus](http://learnboost.github.io/stylus/)
+  ([![][ico-github.com]](https://github.com/stylus/stylus), [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus))
+
+* [Nib](http://tj.github.io/nib/)
+  ([![][ico-github.com]](https://github.com/tj/nib), [![][ico-npmjs.com]](https://www.npmjs.com/package/nib))
+  Stylus mixins, utilities, components, and gradient image generation
+  
   http://nibstyl.us/
 
+* [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
 
-# edge
+
+# Edge
 
 * [![][ico-github.io] edge doc](http://tjanczuk.github.io/edge/)
 * [![][ico-github.com] github / edge](https://github.com/tjanczuk/edge)
