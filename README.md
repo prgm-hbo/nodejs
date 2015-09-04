@@ -107,7 +107,7 @@ Minimal and flexible Node.js web application framework
 
 [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
 
-**C#**
+**C#** compiler for edge.js
 
 [![][ico-github.com] edge-cs](https://github.com/tjanczuk/edge-cs)
 
@@ -115,6 +115,11 @@ Minimal and flexible Node.js web application framework
 
 
 # Socket.io
+
+[Socket.io](http://socket.io/)
+( [![][ico-github.com]](https://github.com/socketio/socket.io) [![][ico-npmjs.com]](https://www.npmjs.com/package/socket.io) )
+
+* [engine.io](https://github.com/socketio/engine.io)
 
 
 # Visual Studio
