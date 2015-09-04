@@ -61,11 +61,23 @@ To read : https://gist.github.com/branneman/8048520
 
 # express
 
-[Express](http://expressjs.com)
+Minimal and flexible Node.js web application framework
+
+* [expressjs](http://expressjs.com)
+* [Third-party middleware](http://expressjs.com/resources/middleware.html)
+* [Using template engines with Express](http://expressjs.com/guide/using-template-engines.html)
+* [Moving to Express 4](http://expressjs.com/guide/migrating-4.html)
+* [Database integration](http://expressjs.com/guide/database-integration.html)
+
+* VS express templates
+  ** [![][ico-github.com] jade](https://github.com/jadejs/jade)
+  ** [stylus](http://learnboost.github.io/stylus/), [![][ico-github.com]](https://github.com/stylus/stylus), [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus)
+  ** [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
 
 ## TODO
 
 * [![](http://www.google.com/s2/favicons?domain=loopback.io) LoopBack](http://loopback.io)
+* [![][ico-github.com] nib](https://github.com/tj/nib) (Stylus mixins, utilities, components, and gradient image generation)
 
 
 # edge
