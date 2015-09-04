@@ -70,9 +70,9 @@ Minimal and flexible Node.js web application framework
 * [Database integration](http://expressjs.com/guide/database-integration.html)
 
 * VS express templates
-  ** [![][ico-github.com] jade](https://github.com/jadejs/jade)
-  ** [stylus](http://learnboost.github.io/stylus/), [![][ico-github.com]](https://github.com/stylus/stylus), [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus)
-  ** [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
+  * [Jade](http://jade-lang.com/) [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade)
+  * [Stylus](http://learnboost.github.io/stylus/) [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus)
+  * [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
 
 ## TODO
 
