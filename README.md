@@ -89,6 +89,10 @@ robust, elegant, feature rich template engine for Node.js
 ( [![][ico-github]](https://github.com/stylus/stylus) [![][ico-npm]](https://www.npmjs.com/package/stylus) )
 robust, expressive, and feature-rich CSS superset
 
+( [![][ico-github]]([toto]/stylus) [![][ico-npm]]([titi]stylus) ) 
+[toto]: https://github.com/stylus
+[titi]: https://www.npmjs.com/package/
+
 * [Nib](http://tj.github.io/nib/)
   ( [![][ico-github]](https://github.com/tj/nib) [![][ico-npm]](https://www.npmjs.com/package/nib) )
   Stylus mixins, utilities, components, and gradient image generation
