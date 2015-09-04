@@ -3,7 +3,7 @@
 * [![](http://www.google.com/s2/favicons?domain=nodejs.org) Node.js](https://nodejs.org)
 * [![][ico-github.com] joyent / node](https://github.com/joyent/node) on GitHub (orig)
 * [![][ico-github.com] node.js / node](https://github.com/nodejs/node) on GitHub (io.js merged)
-* http://nodeschool.io/fr-fr/
+* [![](http://www.google.com/s2/favicons?domain=nodeschool.io) nodeschool](http://nodeschool.io/fr-fr/)
 
 PATH = `C:\Program Files (x86)\nodejs\` (node.exe, npm.cmd)
 
