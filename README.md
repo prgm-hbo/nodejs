@@ -61,9 +61,9 @@ To read : https://gist.github.com/branneman/8048520
 
 # Express
 
-Minimal and flexible Node.js web application framework
+[expressjs](http://expressjs.com)
+minimal and flexible Node.js web application framework
 
-* [expressjs](http://expressjs.com)
 * [Third-party middleware](http://expressjs.com/resources/middleware.html)
 * [Using template engines with Express](http://expressjs.com/guide/using-template-engines.html)
 * [Moving to Express 4](http://expressjs.com/guide/migrating-4.html)
@@ -77,6 +77,7 @@ Minimal and flexible Node.js web application framework
 
 [Jade](http://jade-lang.com/)
 ( [![][ico-github]](https://github.com/jadejs/jade) [![][ico-npm]](https://www.npmjs.com/package/jade) )
+robust, elegant, feature rich template engine for Node.js
 
 * [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
 * [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
@@ -86,6 +87,7 @@ Minimal and flexible Node.js web application framework
 
 [Stylus](http://learnboost.github.io/stylus/)
 ( [![][ico-github]](https://github.com/stylus/stylus) [![][ico-npm]](https://www.npmjs.com/package/stylus) )
+robust, expressive, and feature-rich CSS superset
 
 * [Nib](http://tj.github.io/nib/)
   ( [![][ico-github]](https://github.com/tj/nib) [![][ico-npm]](https://www.npmjs.com/package/nib) )
@@ -100,6 +102,7 @@ Minimal and flexible Node.js web application framework
 
 [Edge](http://tjanczuk.github.io/edge/)
 ( [![][ico-github]](https://github.com/tjanczuk/edge) [![][ico-npm]](https://www.npmjs.com/package/edge) )
+run .NET and Node.js in-process on Windows, Mac OS, and Linux
 
 [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Tomasz Janczuk](http://tomasz.janczuk.org)
 
