@@ -59,7 +59,7 @@ Pour mettre à jour la version de npm installée (globalement car utilisation en
 To read : https://gist.github.com/branneman/8048520
 
 
-# express
+# Express
 
 Minimal and flexible Node.js web application framework
 
@@ -80,23 +80,21 @@ Minimal and flexible Node.js web application framework
 
 # Jade
 
-* [Jade](http://jade-lang.com/)
-  ([![][ico-github.com]](https://github.com/jadejs/jade), [![][ico-npmjs.com]](https://www.npmjs.com/package/jade))
-
-* [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
+* [Jade](http://jade-lang.com/) ( [![][ico-github.com]](https://github.com/jadejs/jade) [![][ico-npmjs.com]](https://www.npmjs.com/package/jade) )
 * [Express and Jade](http://tott-meetup.readthedocs.org/en/latest/sessions/express.html)
+* [To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
 
 
 # Stylus
 
 * [Stylus](http://learnboost.github.io/stylus/)
-  ([![][ico-github.com]](https://github.com/stylus/stylus), [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus))
+  ( [![][ico-github.com]](https://github.com/stylus/stylus) [![][ico-npmjs.com]](https://www.npmjs.com/package/stylus) )
 
 * [Nib](http://tj.github.io/nib/)
-  ([![][ico-github.com]](https://github.com/tj/nib), [![][ico-npmjs.com]](https://www.npmjs.com/package/nib))
+  ( [![][ico-github.com]](https://github.com/tj/nib), [![][ico-npmjs.com]](https://www.npmjs.com/package/nib) )
   Stylus mixins, utilities, components, and gradient image generation
-  
-  http://nibstyl.us/
+
+*  http://nibstyl.us/
 
 * [A Simple Website in Node.js with Express, Jade and Stylus](http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus)
 
