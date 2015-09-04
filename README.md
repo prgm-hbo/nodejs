@@ -72,10 +72,6 @@ Minimal and flexible Node.js web application framework
   * [Jade](http://jade-lang.com/)
   * [Stylus](http://learnboost.github.io/stylus/)
 
-## TODO
-
-* [![](http://www.google.com/s2/favicons?domain=loopback.io) LoopBack](http://loopback.io)
-
 
 # Jade
 
@@ -136,7 +132,10 @@ Templates
 
 # Frameworks
 
-- http://learn.mean.io/
+* [![](http://www.google.com/s2/favicons?domain=loopback.io) LoopBack](http://loopback.io)
+( [![][ico-github]](https://github.com/strongloop/loopback) [![][ico-npm]](https://www.npmjs.com/package/loopback) )
+
+* http://learn.mean.io/
 
 
 [ico-github]: http://www.google.com/s2/favicons?domain=github.com
