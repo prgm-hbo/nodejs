@@ -112,6 +112,8 @@ run .NET and Node.js in-process on Windows, Mac OS, and Linux
 
 * [![](http://www.google.com/s2/favicons?domain=tomasz.janczuk.org) Script Node.js from .NET using Edge.js](http://tomasz.janczuk.org/2014/05/script-nodejs-from-net-using-edgejs.html)
 
+[Suite...](Edge.md)
+
 
 # Socket.io
 
