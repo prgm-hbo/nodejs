@@ -115,7 +115,7 @@ run .NET and Node.js in-process on Windows, Mac OS, and Linux
 
 [Suite...](Edge.md)
 
-
+s
 # Socket.io
 
 [Socket.io](http://socket.io/)
@@ -144,12 +144,12 @@ Templates
 * http://learn.mean.io/
 
 
-[ico-github]: http://www.google.com/s2/favicons?domain=github.com
+[ico-github]: http://bazzilic.name/files/github.ico
 [ico-npm]:    https://camo.githubusercontent.com/0b9ab04bd9ec24725b784564edd3b37a6d24e72b/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e706d6a732e636f6d
 [ico-vs]:     https://camo.githubusercontent.com/e970fb88aa5b2bc099f0e68d36d3c7d670409bfa/68747470733a2f2f692d6d73646e2e7365632e732d6d7366742e636f6d2f64796e696d672f49433631323330382e706e67
-[ico-nodejs]: http://www.google.com/s2/favicons?domain=nodejs.org
+[ico-nodejs]: https://camo.githubusercontent.com/ea1200d67566a52c1efe34d5794da1d908419955/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e6f64656a732e6f7267
 <!--
-[ico-github]: https://camo.githubusercontent.com/40c6c706914d145efe97dd7b353a13fb6a12950a/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6769746875622e636f6d
+[ico-github]: http://bazzilic.name/files/github.ico
 [ico-github]: http://www.google.com/s2/favicons?domain=github.com
 [ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
 [ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
