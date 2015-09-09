@@ -1,8 +1,9 @@
 # nodejs
 
-* [![](http://www.google.com/s2/favicons?domain=nodejs.org) Node.js](https://nodejs.org)
+* [![][ico-nodejs] Node.js](https://nodejs.org)
 * [![][ico-github] joyent / node](https://github.com/joyent/node) on GitHub (orig)
 * [![][ico-github] node.js / node](https://github.com/nodejs/node) on GitHub (io.js merged)
+* [![][ico-nodejs] node.js / api](https://nodejs.org/dist/latest/docs/api/)
 * [![](http://www.google.com/s2/favicons?domain=nodeschool.io) nodeschool](http://nodeschool.io/fr-fr/)
 
 PATH = `C:\Program Files (x86)\nodejs\` (node.exe, npm.cmd)
@@ -150,4 +151,5 @@ Templates
 [ico-github]: http://www.google.com/s2/favicons?domain=github.com
 [ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
 [ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
+[ico-nodejs]: http://www.google.com/s2/favicons?domain=nodejs.org
  -->
