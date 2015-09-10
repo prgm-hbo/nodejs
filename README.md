@@ -130,6 +130,8 @@ Node.js Tools for Visual Studio (NTVS)
 
 * [![][ico-vs] visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
 ( [![][ico-github]](https://github.com/Microsoft/nodejstools) [wiki](https://github.com/Microsoft/nodejstools/wiki/) )
+* [![][ico-vscode] Developing Node Applications](https://code.visualstudio.com/Docs/runtimes/nodejs)
+
 
 Templates
 
@@ -144,7 +146,7 @@ Templates
 * http://learn.mean.io/
 
 
-[ico-github]: http://bazzilic.name/files/github.ico
+[ico-github]: https://camo.githubusercontent.com/40c6c706914d145efe97dd7b353a13fb6a12950a/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6769746875622e636f6d
 [ico-npm]:    https://camo.githubusercontent.com/0b9ab04bd9ec24725b784564edd3b37a6d24e72b/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e706d6a732e636f6d
 [ico-vs]:     https://camo.githubusercontent.com/e970fb88aa5b2bc099f0e68d36d3c7d670409bfa/68747470733a2f2f692d6d73646e2e7365632e732d6d7366742e636f6d2f64796e696d672f49433631323330382e706e67
 [ico-nodejs]: https://camo.githubusercontent.com/ea1200d67566a52c1efe34d5794da1d908419955/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e6f64656a732e6f7267
@@ -154,4 +156,5 @@ Templates
 [ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
 [ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
 [ico-nodejs]: http://www.google.com/s2/favicons?domain=nodejs.org
+[ico-vscode]: http://d6rd5g4tnbhqj.cloudfront.net/image?url=code.visualstudio.com&t=2&s=1&h=14299391160270935514
  -->
