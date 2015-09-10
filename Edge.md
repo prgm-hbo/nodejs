@@ -39,14 +39,18 @@ Appel synchrone
 var result = myFunction('Some input', true);
 ```
 
+Contrainte : pas de code asynchrone dans la partie .net
+ 
 ### edge.func()
 
 * delegate sous forme de string
 
-```c#
+```csharp
 
 'async (input) => { return ""; }'
 ```
 
-
 ## Marshalling
+
+Edge.js marshals **all data by value**, so a copy of the data is created on the V8 or CLR heap when execution crosses the V8/CLR boundary.
+Exception: separately from marshaling data by value, Edge.js will marshal **functions by reference**. 
