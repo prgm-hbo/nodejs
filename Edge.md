@@ -1,6 +1,6 @@
 # Edge
 
-- [Sync vs async](http://tjanczuk.github.io/edge/#/27): Call CLR functions synchronously or asynchronously
+- [Run .NET and Node.js code in-process with Edge.js](http://www.infoq.com/articles/the_edge_of_net_and_node)
 
 node.js -> C#
 - [Export node.js function to C#](http://tjanczuk.github.io/edge/#/31): Node.js function is also data
@@ -15,3 +15,38 @@ C# -> node.js
 - [Multi-threading in node.js process](http://tjanczuk.github.io/edge/#/39): Run CPU-bound background work on CLR thread pool
 - [Express.js handler in C#](http://tjanczuk.github.io/edge/#/43): Plug in .NET OWIN apps as connect middleware or express handlers
 - [.NET handlers for node.js events](http://tjanczuk.github.io/edge/#/55)
+
+## Entry point
+
+The entry point into the .NET code is normalized to a `Func<object, Task<object>>` delegate.
+This allows Node.js code to call .NET asynchronously and avoid blocking the Node.js event loop.
+
+- [Sync vs async](http://tjanczuk.github.io/edge/#/27): Call CLR functions synchronously or asynchronously
+
+Appel asynchrone
+
+```javascript
+var myFunction = edge.func(...);
+
+myFunction('Some input', function (error, result) {
+    //...
+});
+```
+
+Appel synchrone
+
+```javascript
+var result = myFunction('Some input', true);
+```
+
+### edge.func()
+
+* delegate sous forme de string
+
+```c#
+
+'async (input) => { return ""; }'
+```
+
+
+## Marshalling

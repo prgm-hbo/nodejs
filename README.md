@@ -115,7 +115,7 @@ run .NET and Node.js in-process on Windows, Mac OS, and Linux
 
 [Suite...](Edge.md)
 
-s
+
 # Socket.io
 
 [Socket.io](http://socket.io/)
@@ -130,7 +130,7 @@ Node.js Tools for Visual Studio (NTVS)
 
 * [![][ico-vs] visualstudio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
 ( [![][ico-github]](https://github.com/Microsoft/nodejstools) [wiki](https://github.com/Microsoft/nodejstools/wiki/) )
-* [![][ico-vscode] Developing Node Applications](https://code.visualstudio.com/Docs/runtimes/nodejs)
+* [![][ico-vscode] Developing Node Applications](https://code.visualstudio.com/Docs/runtimes/nodejs) (VSCode)
 
 
 Templates
@@ -150,11 +150,13 @@ Templates
 [ico-npm]:    https://camo.githubusercontent.com/0b9ab04bd9ec24725b784564edd3b37a6d24e72b/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e706d6a732e636f6d
 [ico-vs]:     https://camo.githubusercontent.com/e970fb88aa5b2bc099f0e68d36d3c7d670409bfa/68747470733a2f2f692d6d73646e2e7365632e732d6d7366742e636f6d2f64796e696d672f49433631323330382e706e67
 [ico-nodejs]: https://camo.githubusercontent.com/ea1200d67566a52c1efe34d5794da1d908419955/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e6f64656a732e6f7267
+[ico-vscode]: https://camo.githubusercontent.com/85dba057e9bc65dd556272162e125f7dafb7dd6d/687474703a2f2f64367264356734746e6268716a2e636c6f756466726f6e742e6e65742f696d6167653f75726c3d636f64652e76697375616c73747564696f2e636f6d26743d3226733d3126683d3134323939333931313630323730393335353134
+
 <!--
-[ico-github]: http://bazzilic.name/files/github.ico
-[ico-github]: http://www.google.com/s2/favicons?domain=github.com
-[ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
-[ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
-[ico-nodejs]: http://www.google.com/s2/favicons?domain=nodejs.org
-[ico-vscode]: http://d6rd5g4tnbhqj.cloudfront.net/image?url=code.visualstudio.com&t=2&s=1&h=14299391160270935514
- -->
+ico-github]: http://bazzilic.name/files/github.ico
+ico-github]: http://www.google.com/s2/favicons?domain=github.com
+ico-npm]:    http://www.google.com/s2/favicons?domain=npmjs.com
+ico-vs]:     https://i-msdn.sec.s-msft.com/dynimg/IC612308.png
+ico-nodejs]: http://www.google.com/s2/favicons?domain=nodejs.org
+ico-vscode]: http://d6rd5g4tnbhqj.cloudfront.net/image?url=code.visualstudio.com&t=2&s=1&h=14299391160270935514
+-->
