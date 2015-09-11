@@ -81,10 +81,12 @@ var lambda_5 = edge.func(function () {
 
     public class Startup
     {
-        public async Task<object> Invoke(dynamic p)
+        public async Task<object> Invoke(string p)
         {
             // KO Console.WriteLine("coucou");
-            return new Data();
+            var d = new Data();
+            // d.anObject[a] = p;
+            return d;
         }
     }
 */
