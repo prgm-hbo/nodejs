@@ -66,6 +66,10 @@ Contrainte : pas de code asynchrone dans la partie .net
 Edge.js marshals **all data by value**, so a copy of the data is created on the V8 or CLR heap when execution crosses the V8/CLR boundary.
 Exception: separately from marshaling data by value, Edge.js will marshal **functions by reference**. 
 
+## WebSocket 
+
+- [How to: use external Node.js modules](https://www.npmjs.com/package/edge#how-to-use-external-node-js-modules)
+
 
 [ico-github]: https://camo.githubusercontent.com/40c6c706914d145efe97dd7b353a13fb6a12950a/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6769746875622e636f6d
 [ico-npm]:    https://camo.githubusercontent.com/0b9ab04bd9ec24725b784564edd3b37a6d24e72b/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d6e706d6a732e636f6d

@@ -4,7 +4,11 @@ var edge = require('edge');
 
 // Func<object, Task<object>> delegate
 
+// Debug
+// Environment variable: set EDGE_CS_DEBUG = 1
+
 // delegate en string
+// no C# debug
 var lambda_1 = edge.func('async (p) => { return "lambda_1: return"; }');
 
 // delegate en commentaire
@@ -14,8 +18,9 @@ var lambda_2 = edge.func(function () {
     using System.Threading;
     using System.Threading.Tasks;
 
-	async (p) => {
-        Console.WriteLine(string.Format("lambda_2 ({0}) ---", p)); 
+    async (p) => {
+        Console.WriteLine(string.Format("lambda_2 ({0}) ---", p));
+        System.Diagnostics.Debugger.Break();
         // Thread.Sleep(1000);  // NON synchrone !!
         
         await Task.Run( async () => {
@@ -34,14 +39,14 @@ var lambda_2 = edge.func(function () {
 */
 });
 
-// Appel synchrone, la fonction doit être synchrone (pas de tâche): result = lambda_3(p, true);
+// Appel synchrone, la fonction doit etre synchrone (pas de tache): result = lambda_3(p, true);
 var lambda_3 = edge.func(function () {
 /*
     using System.Threading;
 
 	async (p) => {
         Console.WriteLine(string.Format("lambda_3 ({0}) ---", p)); 
-        Thread.Sleep(1000);  // synchrone, même si appel asynchrone
+        Thread.Sleep(1000);  // synchrone, meme si appel asynchrone
 		return "lambda_3: return";
 	}
 */
@@ -83,6 +88,7 @@ var lambda_5 = edge.func(function () {
     {
         public async Task<object> Invoke(string p)
         {
+            System.Diagnostics.Debugger.Break();
             // KO Console.WriteLine("coucou");
             var d = new Data();
             // d.anObject[a] = p;
@@ -109,7 +115,7 @@ lambda_2(p, function (error, result) {
 });
 
 console.log("Test 3");
-// Appel synchrone, la fonction doit être synchrone (pas de tâche)
+// Appel synchrone, la fonction doit etre synchrone (pas de tache)
 var result = lambda_3(p, true);
 console.log(result);
 
