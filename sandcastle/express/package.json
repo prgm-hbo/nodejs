@@ -1,7 +1,0 @@
-{
-  "name": "express",
-  "main": "app.js",
-  "dependencies": {
-      "express": "*"
-  }
-}

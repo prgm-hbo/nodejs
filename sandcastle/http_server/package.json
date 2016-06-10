@@ -1,6 +1,0 @@
-{
-  "name": "http_server",
-  "main": "server.js",
-  "dependencies": {
-  }
-}
